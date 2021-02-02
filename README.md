@@ -1,3 +1,13 @@
+
+
+![alt text](https://i.imgur.com/hZwYZ8i.png)
+
+Covid tracking app
+To run:
+In command line run: npm install
+and npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
